@@ -23,7 +23,7 @@ model {
         }
 
         ndk {//指定生成的lib，比如此时生成native.so
-            moduleName   "NdkTest"
+            moduleName   "NdkTestTest"
         }
 
         buildTypes {
